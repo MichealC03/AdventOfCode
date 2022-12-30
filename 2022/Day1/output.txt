@@ -1,0 +1,4 @@
+The first elf has 70116
+The second elf has 68706
+The third elf has 67760
+The elves combined have 206582
